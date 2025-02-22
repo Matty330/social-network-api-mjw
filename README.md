@@ -10,7 +10,7 @@ This is a NoSQL-based social network API built using MongoDB, Express.js, and Mo
 This API is tested using Insomnia, and all CRUD operations for users, thoughts, reactions, and friends have been implemented.
 
 Walkthrough Video
-Watch the full demo here: [Your Video Link](https://yourvideolink.com)
+Watch the full demo here: [Watch Video](https://drive.google.com/file/d/1oxVBzcga2X5EIg7VbZR2ekN_25sabUpi/view?usp=sharing)
 
 Table of Contents
 - Installation
